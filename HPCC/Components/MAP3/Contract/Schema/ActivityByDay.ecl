@@ -1,0 +1,11 @@
+﻿EXPORT ActivityByDay := RECORD
+	UNSIGNED1 Hour;
+	UNSIGNED Sun;
+	UNSIGNED Mon;
+	UNSIGNED Tue;
+	UNSIGNED Wed;
+	UNSIGNED Thu;
+	UNSIGNED Fri;
+	UNSIGNED Sat;
+END;
+		

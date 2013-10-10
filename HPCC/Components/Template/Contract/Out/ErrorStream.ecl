@@ -1,0 +1,2 @@
+EXPORT ErrorStream := INTERFACE
+END;

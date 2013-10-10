@@ -1,0 +1,2 @@
+﻿EXPORT Stream := INTERFACE
+END;

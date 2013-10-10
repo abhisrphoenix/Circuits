@@ -1,0 +1,2 @@
+﻿EXPORT Scalar := INTERFACE
+END;
